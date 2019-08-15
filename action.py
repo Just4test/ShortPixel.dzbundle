@@ -143,11 +143,8 @@ def compress(images, batch_size):
             'wait':30,
             'urllist': [imgdata['r']['OriginalURL']]
         })
-        proxies = {
-            'http': '127.0.0.1:8888'
-        }
         while True:
-            r = requests.post(url=url, data=data, proxies = proxies)
+            r = requests.post(url=url, data=data)
             temp = r.json()[0]
             print(temp)
             if int(temp['Status']['Code']) == 1:
