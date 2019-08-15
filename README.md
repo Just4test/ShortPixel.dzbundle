@@ -1,5 +1,5 @@
 # ShortPixel for Dropzone 3
-Use shortpixel to compress images
+Use shortpixel to compress images. You need a shortpixel api key.
 
 ## How to install
 First of all, you need Dropzone 3 installed.
