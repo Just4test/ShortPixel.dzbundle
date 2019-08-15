@@ -3,7 +3,7 @@ Use shortpixel to compress images
 
 ## How to install
 First of all, you need Dropzone 3 installed.
-I suggess you to [download](https://github.com/Just4test/ShortPixel.dzbundle/releases) release version. Just unzip it and double click "CloudApp.dzbundle".
+I suggess you to [download](https://github.com/Just4test/ShortPixel.dzbundle/releases) release version. Just unzip it and double click "ShortPixel.dzbundle".
 
 Or you can create bundle manually. Follow these step:
 1. Download or clone code as "ShortPixel.dzbundle".
